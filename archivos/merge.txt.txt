@@ -1,3 +1,7 @@
 Carlos Guarin
 19
 ser un teso en poo
+////////////////////////////
+por que la carpeta archivos ya no esta vacia
+
+hay que tener cuidado porque pueden surgir este tipo de confilctos. Por ejemplo, cuando dos personas modifican el mismo archivo y hacen el push
