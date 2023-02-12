@@ -1,0 +1,1 @@
+Con la carpeta sola, sin nada por adentro, no deja hacer commit
